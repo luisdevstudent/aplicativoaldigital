@@ -1,6 +1,6 @@
 import { Text } from "react-native"
 
-export default function CadastroMotorista() {
+export default function EscolhaPerfil() {
     return(
         <Text>Testando</Text>
     )
